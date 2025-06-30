@@ -1,4 +1,3 @@
-This C++ program processes multiple test cases and counts how many problems in each test case have a **difficulty rating of 1000 or more**.
 
 ---
 
@@ -71,4 +70,3 @@ cout << count << endl;
 * First test case: `1200`, `1000`, and `1300` are ≥ 1000 → count = 3
 * Second test case: only `1000` is ≥ 1000 → count = 1
 
-Let me know if you'd like a [visual flow diagram](f) or a [code version with comments](f).
